@@ -1,3 +1,3 @@
     pip install cider
-    git clone https://github.com/msanders/dotfiles ~/.cider
+    git clone git@github.com:matt-the-ogre/dotfiles.git .cider
     cider restore
